@@ -8,11 +8,38 @@ An enterprise-grade predictive demand forecasting, price elasticity modeling, an
 - **Automated Inventory Strategy:** Evaluates safety-stock cushion margins dynamically, throwing stock-out mitigation advisories.
 - **Modern User Experience:** Built using custom modular light-mode UI design tokens, fast-caching algorithms (`@st.cache_data`), and crisp data vectors.
 
+## Business Problem
+Retailers struggle with:
+Demand forecasting,
+Price optimization,
+Inventory planning,
+Revenue maximization.
+
+## Solution
+Built a platform combining:
+XGBoost Forecasting Model,
+Streamlit Web Application.
+
 ##  Tech Stack & Architecture
 - **Core App Framework:** Streamlit
 - **ML & Data Processing:** Python, Pandas, NumPy, Joblib, XGBoost / Scikit-Learn
 - **Inference Visualization:** Plotly Graphing Objects
 - **Navigation Controls:** Streamlit Option Menu
+
+## Machine Learning Performance
+| Metric   | Value  |
+| -------- | ------ |
+| R² Score | 0.9445 |
+| MAE      | 506.96 |
+
+<img width="1918" height="917" alt="Screenshot 2026-06-25 151024" src="https://github.com/user-attachments/assets/8632cb58-de06-45c2-896d-ec16875f34de" />
+
+<img width="1907" height="915" alt="Screenshot 2026-06-25 151113" src="https://github.com/user-attachments/assets/c09616ba-6561-4f96-8e7b-c57402ea2a15" />
+
+<img width="1918" height="915" alt="Screenshot 2026-06-25 151149" src="https://github.com/user-attachments/assets/5b33b826-630a-4770-90dd-27e6e1a206b0" />
+
+<img width="1913" height="912" alt="Screenshot 2026-06-25 151209" src="https://github.com/user-attachments/assets/0d87143f-9849-4d19-8bfd-edc5552aa8fd" />
+
 
 ##  Local Quickstart Installation
 
