@@ -32,7 +32,7 @@ Streamlit Web Application.
 | R² Score | 0.9445 |
 | MAE      | 506.96 |
 
-<img width="1918" height="917" alt="Screenshot 2026-06-25 151024" src="https://github.com/user-attachments/assets/8632cb58-de06-45c2-896d-ec16875f34de" />
+<img width="1918" height="917" alt="Screenshot 2026-06-26 221546" src="https://github.com/user-attachments/assets/25ffa3be-727f-4d6c-be64-63346cafd997" />
 
 <img width="1907" height="915" alt="Screenshot 2026-06-25 151113" src="https://github.com/user-attachments/assets/c09616ba-6561-4f96-8e7b-c57402ea2a15" />
 
